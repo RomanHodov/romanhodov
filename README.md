@@ -3,6 +3,6 @@
 ## I`m a beginner
 
 ## Langueges and Tools:
-![Postman]https://img.shields.io/badge/-Postman-090909
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 
 Follow me
