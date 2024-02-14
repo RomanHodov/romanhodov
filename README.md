@@ -1,4 +1,6 @@
-![Header]("https://github.com/RomanHodov/romanhodov/blob/main/1_1-8.jpg"width="200" height="200")
+<p align="center">
+  <img width="400" height="250" src="https://github.com/RomanHodov/romanhodov/blob/main/1_1-8.jpg">
+</p>
 
 ## I`m a beginner
 
