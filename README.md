@@ -1,4 +1,4 @@
-![Header](https://github.com/RomanHodov/romanhodov/blob/main/1_1-8.jpg)
+![Header]("https://github.com/RomanHodov/romanhodov/blob/main/1_1-8.jpg"width="200" height="200")
 
 ## I`m a beginner
 
