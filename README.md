@@ -1,5 +1,5 @@
 ## Hi everyone! My name is Roman. 
-####I want to be a good QA specialist, so I`m learning and improving my skills.
+## I want to be a good QA specialist, so I`m learning and improving my skills.
 
 <p align="center">
   <img width="900" height="250" src="https://github.com/RomanHodov/romanhodov/blob/main/1_1-8.jpg">
