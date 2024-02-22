@@ -7,7 +7,7 @@
 
 
 
-## Langueges and Tools 📁 🛠 📱 💾 ✏️: 
+## Langueges and Tools 📁 🛠 📱 💾 ✏️:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -23,7 +23,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp 
 </div>
 
-### Social media
+## Social media:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/roman-hodov-31951a2b0" target="_blank">
